@@ -21,7 +21,6 @@ do
 done
 
 is_opt='--opt'
-is_bayesian=''
 run_mode='_cv'
 reverse=''
 for context in 'none' 'pos' 'word2vec' 'mixed'
@@ -53,7 +52,6 @@ do
 done
 
 is_opt='--opt'
-is_bayesian=''
 run_mode='_cv'
 reverse='--reverse'
 for context in 'none' 'pos' 'word2vec' 'mixed'
@@ -85,7 +83,6 @@ do
 done
 
 is_opt='--opt'
-is_bayesian=''
 run_mode='_cv'
 reverse=''
 for context in 'none' 'pos' 'word2vec' 'mixed'
