@@ -102,3 +102,23 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Project specific
+datasets/northeuralex/orig.csv
+datasets/northeuralex/orig.csv.tar.gz
+datasets/northeuralex/preprocess
+
+datasets/celex/orig/
+datasets/celex/preprocess/
+datasets/celex/preprocess_inv/
+
+checkpoints/
+results/
+plots/
+
+*.bk
+*results-per-word.csv
+*results-per-position-per-word.csv
+*results-per-position.csv
+
+.~lock.*
