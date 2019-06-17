@@ -1,5 +1,7 @@
 # meaning2form
-Studying the arbitrariness of the sign through a systematicity analysis.
+
+This repository contains code accompaning the paper: [Meaning to Form: Measuring Systematicity as Information (Pimentel et al., ACL 2019)](https://arxiv.org/abs/1906.05906).
+It is a study about the arbitrariness of the sign and its systematicity.
 
 ## Install Dependencies
 
@@ -47,6 +49,31 @@ $ python analysis_pipe/analyse_phonesthemes.py --n-permuts 100000
 
 ## Extra Information
 
+#### Citation
+
+If this code or the paper were usefull to you, consider citing it:
+
+
+```bash
+@inproceedings{pimentel-etal-2019-meaning,
+    title = "Meaning to Form: Measuring Systematicity as Information",
+    author = "Pimentel, Tiago and
+    McCarthy, Arya D. and
+    Blasi, Dami\'{a}n E. and
+    Roark, Brian and
+    Cotterell, Ryan",
+    booktitle = "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2019",
+    address = "Florence, Italy",
+    publisher = "Association for Computational Linguistics",
+    url = "https://arxiv.org/abs/1906.05906",
+}
+```
+
+
+#### Dependencies
+
 This project was tested with libraries:
 ```bash
 numpy==1.11.3
@@ -58,3 +85,7 @@ seaborn==0.9.0
 tqdm==4.32.1
 torch==1.1.0
 ```
+
+#### Contact
+
+To ask questions or report problems, please open an [issue](https://github.com/tpimentelms/meaning2form/issues).
