@@ -1,6 +1,6 @@
 # meaning2form
 
-This repository contains code accompaning the paper: [Meaning to Form: Measuring Systematicity as Information (Pimentel et al., ACL 2019)](https://arxiv.org/abs/1906.05906).
+This repository contains code accompanying the paper: [Meaning to Form: Measuring Systematicity as Information (Pimentel et al., ACL 2019)](https://arxiv.org/abs/1906.05906).
 It is a study about the arbitrariness of the sign and its systematicity.
 
 ## Install Dependencies
