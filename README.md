@@ -11,6 +11,10 @@ $ source config/conda.sh
 ```
 And install your appropriate version of [PyTorch](https://pytorch.org/get-started/locally/).
 
+## Get data
+
+Information about used datasets and where to get them from is available in: [NorthEuraLex](https://github.com/tpimentelms/meaning2form/tree/master/datasets/northeuralex) and [CELEX](https://github.com/tpimentelms/meaning2form/tree/master/datasets/celex).
+
 ## Parse data
 
 ```bash
