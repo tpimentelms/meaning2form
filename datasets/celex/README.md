@@ -1,8 +1,12 @@
 # CELEX data
 
+### CELEX
+
+CELEX data is available at https://catalog.ldc.upenn.edu/LDC96L14/
+
 ### Lemma data
 
-Monomorphemic CELEX data for English (eng), German (deu) and Dutch (nld) was obtained using the script:
+Monomorphemic CELEX data for English (eng), German (deu) and Dutch (nld) can be extracted using the script:
 
 https://github.com/SbllDtrch/NullLexicons/blob/master/extract_lex_celex.py
 
