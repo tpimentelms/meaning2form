@@ -6,7 +6,7 @@ bz2file==0.98
 certifi==2019.3.9
 cffi==1.12.3
 chardet==3.0.4
-cryptography==2.5
+cryptography==3.2
 cycler==0.10.0
 docutils==0.14
 gensim==3.7.3
