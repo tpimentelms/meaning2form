@@ -12,7 +12,7 @@ docutils==0.14
 gensim==3.7.3
 idna==2.8
 jmespath==0.9.4
-joblib==0.13.2
+joblib==1.2.0
 matplotlib==2.0.2
 mkl-fft==1.0.12
 mkl-random==1.0.2
